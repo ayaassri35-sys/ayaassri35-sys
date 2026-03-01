@@ -1,25 +1,24 @@
+<!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22c55e&height=120&section=header&text=AYA%20ASSRI&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aya!+%F0%9F%91%8B;Full-Stack+Web+Developer;Creative+UI+Designer+%F0%9F%8C%B8" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%2B+Laravel;Modern+Web+Apps+%26+Clean+UI" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,php,laravel,nodejs,mysql,git,github,figma&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 </p>
 
 ---
 
-### 📌 Quick Info
-- ✅ Frontend: React, Bootstrap  
-- ✅ Backend: Laravel, Node.js  
-- ✅ DB: MySQL, MongoDB  
-- ✅ Focus: UI/UX + Auth (JWT)
+## 🎀 About Me
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaassri35-sys&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+```js
+const aya = {
+  pronouns: "she/her",
+  stack: "Full Stack Developer 💻",
+  frontend: ["JavaScript ✨", "React ⚛️", "HTML5 🌸", "CSS3 🎀", "Bootstrap 💎"],
+  backend: ["PHP 🐘", "Laravel 🔥", "Python 🐍", "Node.js 🌿"],
+  databases: ["MySQL 🗄️", "MongoDB 🍃", "SQL 💾"],
+  tools: ["Git 🌸", "GitHub 💖", "GitLab 🚀", "Jira 📋", "Figma 🎨"],
+  methodologies: ["Agile 🌷", "Scrum 💡", "UML 📐", "MCD/MLD 📊"],
+  passions: ["UI/UX Design 🎨", "Drawing ✏️", "Music 🎵", "Movies 🎬", "Languages 🌍"],
+};
