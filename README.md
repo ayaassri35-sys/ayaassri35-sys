@@ -1,17 +1,23 @@
-<h1 align="center">Hi, I'm Aya 🌿</h1>
-<p align="center">Full-Stack Web Developer • UI/UX • Clean Design</p>
-
+<!-- Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e7dfd8,100:b7d1b1&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontColor=2f3e2f&fontSize=34" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aya%20Assri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Laravel+%7C+Node.js;Building+Modern+Web+Experiences" />
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
+
 ```js
 const aya = {
   role: "Full Stack Developer",
-  focus: ["React", "Laravel", "UI/UX"],
+  frontend: ["React", "JavaScript", "HTML", "CSS", "Bootstrap"],
+  backend: ["Laravel", "PHP", "Node.js", "Python"],
+  database: ["MySQL", "MongoDB"],
   tools: ["Git", "GitHub", "Figma"],
-  learning: ["JWT Auth", "APIs", "SQL"],
+  focus: "Building scalable & modern web applications",
 };
