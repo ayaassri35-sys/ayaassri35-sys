@@ -1,24 +1,23 @@
-<!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aya!+%F0%9F%91%8B;Full-Stack+Web+Developer;Creative+UI+Designer+%F0%9F%8C%B8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aya+Assri+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%E2%9C%A8+Laravel+%E2%9C%A8+UI%2FUX" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,50:7C3AED,100:EC4899&height=150&section=header&text=Modern%20Portfolio%20README&fontColor=ffffff&fontSize=34&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
 
 ---
 
-## 🎀 About Me
-
+### ✨ About
 ```js
 const aya = {
-  pronouns: "she/her",
-  stack: "Full Stack Developer 💻",
-  frontend: ["JavaScript ✨", "React ⚛️", "HTML5 🌸", "CSS3 🎀", "Bootstrap 💎"],
-  backend: ["PHP 🐘", "Laravel 🔥", "Python 🐍", "Node.js 🌿"],
-  databases: ["MySQL 🗄️", "MongoDB 🍃", "SQL 💾"],
-  tools: ["Git 🌸", "GitHub 💖", "GitLab 🚀", "Jira 📋", "Figma 🎨"],
-  methodologies: ["Agile 🌷", "Scrum 💡", "UML 📐", "MCD/MLD 📊"],
-  passions: ["UI/UX Design 🎨", "Drawing ✏️", "Music 🎵", "Movies 🎬", "Languages 🌍"],
+  role: "Full Stack Developer",
+  focus: ["UI/UX", "Auth (JWT)", "REST APIs"],
+  stack: ["React", "Laravel", "Node.js", "MySQL"],
 };
