@@ -1,24 +1,29 @@
-<!-- Animated Typing Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aya!+%F0%9F%91%8B;Full-Stack+Web+Developer;Creative+UI+Designer+%F0%9F%8C%B8" />
-</p>
+<h1 align="center">Aya Assri</h1>
+<p align="center"><b>Full-Stack Web Developer</b> • React • Laravel • UI/UX</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> •
+  <a href="mailto:YOURMAIL@gmail.com">Email</a> •
+  <a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
 </p>
 
 ---
 
-## 🎀 About Me
+### About
+- 💻 I build web apps with **React** and **Laravel**
+- 🎨 I love **UI/UX** and clean interfaces
+- 🌱 Currently improving: **APIs, Auth (JWT), SQL**
 
-```js
-const aya = {
-  pronouns: "she/her",
-  stack: "Full Stack Developer 💻",
-  frontend: ["JavaScript ✨", "React ⚛️", "HTML5 🌸", "CSS3 🎀", "Bootstrap 💎"],
-  backend: ["PHP 🐘", "Laravel 🔥", "Python 🐍", "Node.js 🌿"],
-  databases: ["MySQL 🗄️", "MongoDB 🍃", "SQL 💾"],
-  tools: ["Git 🌸", "GitHub 💖", "GitLab 🚀", "Jira 📋", "Figma 🎨"],
-  methodologies: ["Agile 🌷", "Scrum 💡", "UML 📐", "MCD/MLD 📊"],
-  passions: ["UI/UX Design 🎨", "Drawing ✏️", "Music 🎵", "Movies 🎬", "Languages 🌍"],
-};
+---
+
+### Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,laravel,nodejs,mysql,git,github,figma&theme=light" />
+</p>
+
+---
+
+### Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaassri35-sys&show_icons=true" />
+</p>
