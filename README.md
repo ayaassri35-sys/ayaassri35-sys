@@ -1,23 +1,39 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aya+Assri+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%E2%9C%A8+Laravel+%E2%9C%A8+UI%2FUX" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:8a4fff,100:00d2ff&height=160&section=header&text=Aya%20Assri&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,50:7C3AED,100:EC4899&height=150&section=header&text=Modern%20Portfolio%20README&fontColor=ffffff&fontSize=34&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=2600&pause=900&color=00D2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;UI%2FUX+Designer;React+%7C+Laravel+%7C+Node.js" />
 </p>
 
 ---
 
-### ✨ About
-```js
-const aya = {
-  role: "Full Stack Developer",
-  focus: ["UI/UX", "Auth (JWT)", "REST APIs"],
-  stack: ["React", "Laravel", "Node.js", "MySQL"],
-};
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🎀 About Me
+- 💻 Full Stack Developer  
+- 🎨 UI/UX lover  
+- 🔐 Learning JWT & APIs  
+- 🌍 Based in Morocco  
+
+</td>
+<td width="50%">
+
+#### ⚡ Stack
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,php,laravel,nodejs,mysql,git,github,figma&theme=light" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaassri35-sys&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:8a4fff,100:ff6ec7&height=120&section=footer" />
+</p>
